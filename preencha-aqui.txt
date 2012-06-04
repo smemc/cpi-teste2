@@ -1,7 +1,7 @@
-Por favor, preencha seu nome abaixo:
+﻿Por favor, preencha seu nome abaixo:
 
 lbssousa: Laércio Benedito Sivali de Sousa
-shoiti:
+shoiti: Sandro Shoiti Sato, editado no Windows 7
 pritorquato:
 pedropassos:
 mariobarbosa:
